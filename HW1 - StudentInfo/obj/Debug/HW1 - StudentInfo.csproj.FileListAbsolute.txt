@@ -1,0 +1,11 @@
+C:\Users\rosamb\source\repos\App Design 1\HW1 - StudentInfo\HW1 - StudentInfo\obj\Debug\HW1 - StudentInfo.csproj.AssemblyReference.cache
+C:\Users\rosamb\source\repos\App Design 1\HW1 - StudentInfo\HW1 - StudentInfo\obj\Debug\HW1___StudentInfo.Form1.resources
+C:\Users\rosamb\source\repos\App Design 1\HW1 - StudentInfo\HW1 - StudentInfo\obj\Debug\HW1___StudentInfo.Form2.resources
+C:\Users\rosamb\source\repos\App Design 1\HW1 - StudentInfo\HW1 - StudentInfo\obj\Debug\HW1___StudentInfo.Properties.Resources.resources
+C:\Users\rosamb\source\repos\App Design 1\HW1 - StudentInfo\HW1 - StudentInfo\obj\Debug\HW1 - StudentInfo.csproj.GenerateResource.cache
+C:\Users\rosamb\source\repos\App Design 1\HW1 - StudentInfo\HW1 - StudentInfo\obj\Debug\HW1 - StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\rosamb\source\repos\App Design 1\HW1 - StudentInfo\HW1 - StudentInfo\bin\Debug\HW1 - StudentInfo.exe.config
+C:\Users\rosamb\source\repos\App Design 1\HW1 - StudentInfo\HW1 - StudentInfo\bin\Debug\HW1 - StudentInfo.exe
+C:\Users\rosamb\source\repos\App Design 1\HW1 - StudentInfo\HW1 - StudentInfo\bin\Debug\HW1 - StudentInfo.pdb
+C:\Users\rosamb\source\repos\App Design 1\HW1 - StudentInfo\HW1 - StudentInfo\obj\Debug\HW1 - StudentInfo.exe
+C:\Users\rosamb\source\repos\App Design 1\HW1 - StudentInfo\HW1 - StudentInfo\obj\Debug\HW1 - StudentInfo.pdb
